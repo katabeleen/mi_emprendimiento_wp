@@ -5,7 +5,7 @@
 | Funcionalidad | Plugin | Gratis / Pago | Versión de WP compatible | ¿Funciona con tema propio? | Enlace a ficha oficial |
 |---|---|---|---|---|---|
 | **SEO** (Optimización para motores de búsqueda) | Yoast SEO | Gratis (Versión Premium de pago ofrece actualizaciones o soporte comercial) | Probado hasta 7.1.4 | Sí | [Ficha en WordPress.org](https://wordpress.org/plugins/wordpress-seo/) |
-| **Contacto** (Formulario de contacto) | WPForms | Gratis (Versión Lite gratuita, versión Pro de pago con funciones avanzadas) | Probado hasta 7.14 | Sí | [Ficha en WordPress.org](https://wordpress.org/plugins/contact-form-7/) |
+| **Contacto** (Formulario de contacto) | WPForms | Gratis (Versión Lite gratuita, versión Pro de pago con funciones avanzadas) | Probado hasta 7.14 | Sí | [Ficha en WordPress.org](https://es.wordpress.org/plugins/wpforms-lite/)) |
 | **Seguridad y Respaldos** | UpdraftPlus | Gratis (Versión Premium incluye almacenamiento en más nubes y migración) | Probado hasta 7.1.4 | Sí | [Ficha en WordPress.org](https://wordpress.org/plugins/updraftplus/) |
 | **Anti-Spam** | Akismet Spam Protection | Gratis para uso personal (Planes de pago para empresas) | Probado hasta 7.1.4 | Sí | [Ficha en WordPress.org](https://wordpress.org/plugins/akismet/) |
 | **Redes Sociales** | Smash Balloon Social Photo Feed | Gratis (Versión Pro agrega más estilos y soporta reels/historias) | Probado hasta 7.1.4 | Sí | [Ficha en WordPress.org](https://wordpress.org/plugins/instagram-feed/) |
