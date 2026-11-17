@@ -62,3 +62,10 @@ gantt
 | Que los estilos de CSS en mi tema propio no se apliquen bien o se rompa el diseño en celulares. | Revisaré la estructura en el archivo style.css o usaré un plugin temporal de estilos CSS personalizados. | Si el diseño falla al revisar la vista móvil antes del 18 de noviembre. |
 | Que el plugin de formulario de contacto falle o no entregue los avisos correctamente. | Instalaré otro plugin alternativo de contacto o configuraré un mensaje visual directo en pantalla para el usuario. | Si las pruebas de envío fallan durante la semana de pruebas. |
 | Que me quede atascada con la programación o estructura PHP de las plantillas de WordPress. | Consultaré la guía del curso, pediré apoyo en la clase de taller o usaré una estructura base limpia de respaldo. | Si paso más de un día bloqueada con el código de un archivo. |
+
+---
+
+## Cambios respecto de la Sumativa 2
+- **Qué mantuvimos:** Se conservó la identidad visual principal (paleta de colores coral `#F55D3E`, tipografías y tema OceanWP) y la estructura base de páginas (*Inicio*, *Contacto*, *Sobre mí*, *Blog*).
+- **Qué cambiamos / ajustamos:** Se tradujeron los widgets laterales (*Entradas recientes*, *Comentarios recientes*), se personalizó el marcador de búsqueda ("Buscar consejos..."), se aplicó un margen adecuado para la vista móvil y se corrigió la ficha técnica y versión del plugin de contacto (WPForms) en este documento.
+- **Decisión:** Continuar con la configuración de WordPress sobre el tema descargado OceanWP, validando el correcto funcionamiento en dispositivos móviles y de escritorio.
